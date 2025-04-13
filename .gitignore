@@ -1,0 +1,16 @@
+# Fichiers temporaires
+*.log
+*.pcap
+*.pyc
+__pycache__/
+.env
+
+# Données non suivies
+data/logs/
+data/captures/
+ml/models/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
